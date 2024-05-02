@@ -1,3 +1,3 @@
-primer cambio
+cambio desde git sm
 
 # actividadGit
